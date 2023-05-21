@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1683788740 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\registros\firma\firma.c
+	<stdio.h>
+	<stdlib.h>
+	"Firma.h"
+
+1683788451 c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\registros\firma\firma.h
+
+1683984097 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\registros\ejercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"../Firma/Firma.h"
+	"../carga_muestra_lib/carga_muestra.h"
+
+1683927795 c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\registros\carga_muestra_lib\carga_muestra.h
+
+1684279369 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\registros\carga_muestra_lib\carga_muestra.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"carga_muestra.h"
+

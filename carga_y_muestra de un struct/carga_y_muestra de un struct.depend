@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683848738 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\registros\carga_y_muestra de un struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
